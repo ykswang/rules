@@ -65,30 +65,30 @@ payload:
   - DOMAIN,g.co
   - DOMAIN-SUFFIX,firebaseapp.com
   - DOMAIN-SUFFIX,gcr.io
-    # nest
+  # nest
   - DOMAIN-KEYWORD,dropcam.com
   - DOMAIN-KEYWORD,nest.com
-    # youtube
+  # youtube
   - DOMAIN-KEYWORD,youtube.com
   - DOMAIN-KEYWORD,youtube-nocookie.com
   - DOMAIN-KEYWORD,youtu.be
   - DOMAIN-KEYWORD,ytimg.com
-    # apk download
+  # apk download
   - DOMAIN-SUFFIX,pureapk.com
   - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,apkpure.com
-    # sony
+  # sony
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-    # twitter
+  # twitter
   - DOMAIN-KEYWORD,twimg.com
   - DOMAIN-KEYWORD,twitter.com
   - DOMAIN,t.co
   - DOMAIN-SUFFIX,t.co
-    # viemo
+  # viemo
   - DOMAIN-KEYWORD,vimeo.com
   - DOMAIN-KEYWORD,vimeocdn.com
-    # facebook
+  # facebook
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,akamaihd.net
@@ -96,12 +96,12 @@ payload:
   - DOMAIN-KEYWORD,instagram.com
   - DOMAIN-SUFFIX,oculuscdn.com
   - DOMAIN-SUFFIX,oculus.com
-    # atlassian
+  # atlassian
   - DOMAIN-KEYWORD,atlassian.com
   - DOMAIN-KEYWORD,trello.com
   - DOMAIN-KEYWORD,trellocdn.com
   - DOMAIN,bitbucket.org
-    # Other GAME
+  # Other GAME
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,dl.eccdnx.com
   - DOMAIN-SUFFIX,steamcommunity.com
@@ -109,7 +109,7 @@ payload:
   - DOMAIN-KEYWORD,2ksports.com
   - DOMAIN-KEYWORD,nintendo
   - DOMAIN-KEYWORD,epicgames.com
-    # amazon
+  # amazon
   - DOMAIN-KEYWORD,amazon.co.jp
   - DOMAIN-KEYWORD,amazon.com
   - DOMAIN-SUFFIX,awsapps.com
@@ -118,7 +118,7 @@ payload:
   - DOMAIN-KEYWORD,awsstatic.com
   - DOMAIN,speedtest.globalaccelerator.aws
   - DOMAIN-KEYWORD,awscloud
-    # software
+  # software
   - DOMAIN-KEYWORD,bear-writer.com
   - DOMAIN-KEYWORD,paw.cloud
   - DOMAIN-KEYWORD,setapp.com
@@ -144,7 +144,7 @@ payload:
   - DOMAIN-SUFFIX,slack-edge.com
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,sublimetext.com
-    # saas
+  # saas
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-KEYWORD,godaddy.com
   - DOMAIN-KEYWORD,mailgun.com
@@ -168,7 +168,7 @@ payload:
   - DOMAIN-KEYWORD,ampproject.org
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN,maxcdn.bootstrapcdn.com
-    # social
+  # social
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-KEYWORD,wikipedia.org
@@ -187,7 +187,7 @@ payload:
   - DOMAIN-KEYWORD,javbus
   - DOMAIN-KEYWORD,deapi.xyz
   - DOMAIN-KEYWORD,suimg.xyz
-    # develop
+  # develop
   - DOMAIN,acme.sh
   - DOMAIN,apache.org
   - DOMAIN-SUFFIX,eclipse.org
