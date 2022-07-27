@@ -1,0 +1,22 @@
+payload:
+  # dropbox
+  - DOMAIN-KEYWORD,dropbox.com
+  - DOMAIN-KEYWORD,dropboxstatic.com
+  - DOMAIN-KEYWORD,dropboxusercontent.com
+  - DOMAIN,dropbox-api.arkoselabs.com
+  - DOMAIN,dropboxcaptcha.com
+  # 1password
+  - DOMAIN-SUFFIX,agilebits.com
+  - DOMAIN-SUFFIX,1password.com
+  # paypal
+  - DOMAIN-KEYWORD,myvisualiq.net
+  - DOMAIN-KEYWORD,paypal.com
+  - DOMAIN,unpkg.com
+  - DOMAIN-KEYWORD,paypalobjects.com
+  - DOMAIN-KEYWORD,sandbox.paypal.com
+  # bitwarden
+  - DOMAIN-SUFFIX,bitwarden.com
+  # gitlab
+  - DOMAIN-SUFFIX,gitlab.com
+  # github
+  - DOMAIN-KEYWORD,github

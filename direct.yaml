@@ -1,0 +1,11 @@
+payload:
+  # closeli
+  - DOMAIN-KEYWORD,cjoint
+  # microsoft
+  - DOMAIN-KEYWORD,microsoft-com.akamaized.net
+  # Sony PS
+  - DOMAIN-SUFFIX,playstation.net
+  # AWS CN
+  - DOMAIN-KEYWORD,images-cn
+  - DOMAIN-KEYWORD,cn.ssl-images-amazon.com
+  - DOMAIN-KEYWORD,amazonaws.com.cn
