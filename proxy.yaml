@@ -220,3 +220,4 @@ payload:
   - DOMAIN-KEYWORD,jetbrains.com
   - DOMAIN-SUFFIX,kotlinlang.org
   - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-KEYWORD,adoptium
