@@ -222,3 +222,5 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-KEYWORD,adoptium
   - DOMAIN-SUFFIX,mobatek.net
+  # github
+  - DOMAIN-KEYWORD,github

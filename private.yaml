@@ -18,5 +18,4 @@ payload:
   - DOMAIN-SUFFIX,bitwarden.com
   # gitlab
   - DOMAIN-SUFFIX,gitlab.com
-  # github
-  - DOMAIN-KEYWORD,github
+  
