@@ -110,6 +110,7 @@ payload:
   - DOMAIN-KEYWORD,2ksports.com
   - DOMAIN-KEYWORD,nintendo
   - DOMAIN-KEYWORD,epicgames.com
+  - DOMAIN-KEYWORD,battlenet
     # amazon
   - DOMAIN-KEYWORD,amazon.co.jp
   - DOMAIN-KEYWORD,amazon.com
