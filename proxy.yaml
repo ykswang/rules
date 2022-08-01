@@ -225,5 +225,6 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-KEYWORD,adoptium
   - DOMAIN-SUFFIX,mobatek.net
+  - DOMAIN-SUFFIX,go.dev
   # github
   - DOMAIN-KEYWORD,github
