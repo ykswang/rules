@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoft.net
   - DOMAIN-SUFFIX,msocdn.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,msauth.net
@@ -146,8 +147,10 @@ payload:
   - DOMAIN-SUFFIX,slack-edge.com
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,razer.com
     # saas
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-KEYWORD,godaddy.com
   - DOMAIN-KEYWORD,mailgun.com
   - DOMAIN-KEYWORD,sourceforge.net
