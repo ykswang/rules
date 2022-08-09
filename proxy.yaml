@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,vultr.com
+  - DOMAIN-SUFFIX,gacloudltd.org
   # microsoft
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,msftconnecttest.com
