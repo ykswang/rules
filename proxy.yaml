@@ -232,5 +232,8 @@ payload:
   - DOMAIN-KEYWORD,adoptium
   - DOMAIN-SUFFIX,mobatek.net
   - DOMAIN-SUFFIX,go.dev
+  # gitlab
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitlab.net
   # github
   - DOMAIN-KEYWORD,github

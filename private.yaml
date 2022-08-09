@@ -16,6 +16,3 @@ payload:
   - DOMAIN-KEYWORD,sandbox.paypal.com
   # bitwarden
   - DOMAIN-SUFFIX,bitwarden.com
-  # gitlab
-  - DOMAIN-SUFFIX,gitlab.com
-  - DOMAIN-SUFFIX,gitlab.net
