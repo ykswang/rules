@@ -175,6 +175,7 @@ payload:
   - DOMAIN-KEYWORD,ampproject.org
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN,maxcdn.bootstrapcdn.com
+  - DOMAIN-KEYWORD,fastlydns.net
     # social
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,v2ex.com
