@@ -41,6 +41,7 @@ payload:
   - DOMAIN-KEYWORD,skype
   - DOMAIN-KEYWORD,azure.com
   - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,onenote.com
   # xbox
   - DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,xboxlive.com
