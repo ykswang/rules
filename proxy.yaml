@@ -152,6 +152,7 @@ payload:
   - DOMAIN-SUFFIX,sublimetext.com
   - DOMAIN-SUFFIX,razer.com
   - DOMAIN-SUFFIX,wireguard.com
+  - DOMAIN-SUFFIX,netsarang.com
     # saas
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,akamaized.net
