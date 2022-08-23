@@ -236,7 +236,7 @@ payload:
   - DOMAIN-SUFFIX,mobatek.net
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-KEYWORD,workers.dev
-    - DOMAIN-KEYWORD,css-ig
+  - DOMAIN-SUFFIX,corretto.aws
   # gitlab
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.net
