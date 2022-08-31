@@ -117,6 +117,7 @@ payload:
   - DOMAIN-KEYWORD,battlenet
   - DOMAIN-KEYWORD,battle.net
   - DOMAIN-KEYWORD,blzstatic
+  - DOMAIN-KEYWORD,blizzard
     # amazon
   - DOMAIN-KEYWORD,amazon.co.jp
   - DOMAIN-KEYWORD,amazon.com
