@@ -115,6 +115,8 @@ payload:
   - DOMAIN-KEYWORD,nintendo
   - DOMAIN-KEYWORD,epicgames.com
   - DOMAIN-KEYWORD,battlenet
+  - DOMAIN-KEYWORD,battle.net
+  - DOMAIN-KEYWORD,blzstatic
     # amazon
   - DOMAIN-KEYWORD,amazon.co.jp
   - DOMAIN-KEYWORD,amazon.com
