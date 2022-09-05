@@ -42,6 +42,7 @@ payload:
   - DOMAIN-KEYWORD,azure.com
   - DOMAIN-SUFFIX,msftauth.net
   - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-KEYWORD,microsofttranslator
   # xbox
   - DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,xboxlive.com
