@@ -157,6 +157,8 @@ payload:
   - DOMAIN-SUFFIX,razer.com
   - DOMAIN-SUFFIX,wireguard.com
   - DOMAIN-KEYWORD,netsarang
+  - DOMAIN-KEYWORD,mozilla
+  - DOMAIN-KEYWORD,firefox
     # saas
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,akamaized.net
