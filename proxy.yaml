@@ -159,6 +159,7 @@ payload:
   - DOMAIN-KEYWORD,netsarang
   - DOMAIN-KEYWORD,mozilla
   - DOMAIN-KEYWORD,firefox
+  - DOMAIN-SUFFIX,openwrt.org
     # saas
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,akamaized.net
