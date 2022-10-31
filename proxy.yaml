@@ -188,6 +188,7 @@ payload:
   - DOMAIN,maxcdn.bootstrapcdn.com
   - DOMAIN-KEYWORD,fastlydns.net
   - DOMAIN-KEYWORD,daum.net
+  - DOMAIN-KEYWORD,midtowncomics
     # social
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,v2ex.com
