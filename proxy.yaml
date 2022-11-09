@@ -190,6 +190,7 @@ payload:
   - DOMAIN-KEYWORD,daum.net
   - DOMAIN-KEYWORD,midtowncomics
   - DOMAIN-KEYWORD,zdassets.com
+  - DOMAIN-KEYWORD,resilio
     # social
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,v2ex.com
