@@ -211,6 +211,7 @@ payload:
   - DOMAIN-KEYWORD,deapi.xyz
   - DOMAIN-KEYWORD,suimg.xyz
   - DOMAIN-KEYWORD,xunhuan
+  - DOMAIN-KEYWORD,producthunt
     # develop
   - DOMAIN,acme.sh
   - DOMAIN,apache.org
