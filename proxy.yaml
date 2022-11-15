@@ -208,11 +208,13 @@ payload:
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-KEYWORD,quoracdn.net
   - DOMAIN-KEYWORD,quora.com
+  - DOMAIN-KEYWORD,producthunt
   - DOMAIN-KEYWORD,javbus
   - DOMAIN-KEYWORD,deapi.xyz
+  - DOMAIN-KEYWORD,duapi.xyz
   - DOMAIN-KEYWORD,suimg.xyz
+  - DOMAIN-KEYWORD,qrimg.xyz
   - DOMAIN-KEYWORD,xunhuan
-  - DOMAIN-KEYWORD,producthunt
     # develop
   - DOMAIN,acme.sh
   - DOMAIN,apache.org
