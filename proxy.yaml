@@ -206,6 +206,7 @@ payload:
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,quoracdn.net
   - DOMAIN-KEYWORD,quora.com
   - DOMAIN-KEYWORD,producthunt
