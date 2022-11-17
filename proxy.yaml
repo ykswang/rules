@@ -192,6 +192,7 @@ payload:
   - DOMAIN-KEYWORD,zdassets.com
   - DOMAIN-KEYWORD,resilio
   - DOMAIN-KEYWORD,imgix.net
+  - DOMAIN-SUFFIX,ping.pe
     # social
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,v2ex.com
