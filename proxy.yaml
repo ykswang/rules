@@ -194,6 +194,9 @@ payload:
   - DOMAIN-KEYWORD,resilio
   - DOMAIN-KEYWORD,imgix.net
   - DOMAIN-SUFFIX,ping.pe
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,swiftype.com
+  - DOMAIN-SUFFIX,hcaptcha.com
     # social
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,v2ex.com
