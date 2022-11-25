@@ -197,6 +197,8 @@ payload:
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,swiftype.com
   - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,craft.do
+  - DOMAIN-SUFFIX,amplitude
     # social
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,v2ex.com
