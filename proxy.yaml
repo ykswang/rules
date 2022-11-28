@@ -120,6 +120,7 @@ payload:
   - DOMAIN-KEYWORD,battle.net
   - DOMAIN-KEYWORD,blzstatic
   - DOMAIN-KEYWORD,blizzard
+  - DOMAIN-KEYWORD,greenmangaming
     # amazon
   - DOMAIN-KEYWORD,amazon.co.jp
   - DOMAIN-KEYWORD,amazon.com
