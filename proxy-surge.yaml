@@ -42,6 +42,9 @@ DOMAIN-KEYWORD,azure.com
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-KEYWORD,microsofttranslator
+DOMAIN-KEYWORD,1drv.com
+DOMAIN-KEYWORD,gamepass.com
+DOMAIN-KEYWORD,onedrive.com
 # xbox
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,xboxlive.com
