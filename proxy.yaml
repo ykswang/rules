@@ -240,7 +240,7 @@ payload:
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-KEYWORD,workers.dev
   - DOMAIN-SUFFIX,corretto.aws
-  - DOMAIN-SUFFIX,stackexchange.com
+  - DOMAIN-KEYWORD,stackexchange
   # gitlab
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.net
