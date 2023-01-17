@@ -241,6 +241,7 @@ payload:
   - DOMAIN-KEYWORD,workers.dev
   - DOMAIN-SUFFIX,corretto.aws
   - DOMAIN-KEYWORD,stackexchange
+  - DOMAIN-SUFFIX,sstatic.net
   # gitlab
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.net
