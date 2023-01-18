@@ -139,6 +139,7 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,clockworkpi.com
   - DOMAIN-SUFFIX,yubico.com
+  - DOMAIN-KEYWORD,macpaw
     # saas
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,akamaized.net
