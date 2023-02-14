@@ -8,7 +8,7 @@ payload:
   # 1password
   - DOMAIN-SUFFIX,agilebits.com
   - DOMAIN-SUFFIX,1password.com
-  - DOMAIN-DOMAIN,1password.community
+  - DOMAIN-SUFFIX,1password.community
   # paypal
   - DOMAIN-KEYWORD,myvisualiq.net
   - DOMAIN-KEYWORD,paypal.com
