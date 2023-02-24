@@ -148,6 +148,7 @@ payload:
   - DOMAIN-KEYWORD,sourceforge.net
   - DOMAIN-KEYWORD,feedly.com
   - DOMAIN-SUFFIX,inoreader.com
+  - DOMAIN-SUFFIX,innologica.com
   - DOMAIN-KEYWORD,gitbooks.io
   - DOMAIN-SUFFIX,maxmind.com
   - DOMAIN-KEYWORD,digicert.com
