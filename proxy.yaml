@@ -243,6 +243,7 @@ payload:
   - DOMAIN-SUFFIX,corretto.aws
   - DOMAIN-KEYWORD,stackexchange
   - DOMAIN-SUFFIX,sstatic.net
+  - DOMAIN-SUFFIX,braintreegateway.com
   # gitlab
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.net
