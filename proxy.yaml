@@ -203,6 +203,7 @@ payload:
   - DOMAIN-KEYWORD,suimg.xyz
   - DOMAIN-KEYWORD,qrimg.xyz
   - DOMAIN-KEYWORD,xunhuan
+  - DOMAIN-KEYWORD,xbookcn
     # develop
   - DOMAIN,acme.sh
   - DOMAIN,apache.org
