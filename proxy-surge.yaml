@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
 # sony
+DOMAIN-KEYWORD,sony.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # twitter
