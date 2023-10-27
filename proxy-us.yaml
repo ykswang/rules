@@ -1,5 +1,4 @@
 payload: 
-  - DOMAIN-KEYWORD,openai.com
     # google
   - DOMAIN-KEYWORD,gvt
   - DOMAIN-SUFFIX,fuchsia.dev
